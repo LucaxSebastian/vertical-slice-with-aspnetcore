@@ -49,6 +49,6 @@ publish/
 node_modules/
 
 ## Others files
-messaging-with-aspnetcore-and-rabbitmq.sln
-messaging-with-aspnetcore-and-rabbitmq.http
+*.http
+*.sln
 appsettings.Development.json
