@@ -1,19 +1,19 @@
-# 🧱 Vertical Slice Architecture with ASP.NET Core
+## 🧱 Vertical Slice Architecture with ASP.NET Core
 
 This project is a practical example of a simple TODO List API built with ASP.NET Core, applying the principles of Vertical Slice Architecture.
 
-# 📌 Objective
+## 📌 Objective
 
 Instead of dividing the application by traditional layers (Controllers, Services, Repositories...), Vertical Slice Architecture groups everything related to a specific functionality (like creating, listing, or deleting tasks) in one place. Each feature is treated as an isolated "slice".
 
-# 🛠️ Technologies
+## 🛠️ Technologies
 
 - ASP.NET Core
 - MediatR
 - Entity Framework
 
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```
 /VerticalSliceTodoList
@@ -35,7 +35,7 @@ Instead of dividing the application by traditional layers (Controllers, Services
     TodoDbContext.cs
 ```
 
-# 🧠 Benefits
+## 🧠 Benefits
 
 - Feature-based organization
 
