@@ -1,0 +1,6 @@
+@vertical_slice_with_aspnet_HostAddress = http://localhost:5283
+
+GET {{vertical_slice_with_aspnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
